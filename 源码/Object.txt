@@ -1,0 +1,11 @@
+clone();
+equals(Object obj);
+finalize();
+getClass();
+hashCode();
+notify();
+notifyAll();
+toString();
+wait();
+wait(long timeout);
+wait(long timeout,int nanos);
